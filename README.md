@@ -1,0 +1,1 @@
+Projeto de uma to do list feito em aula com auxílio de professor, o qual tem o objetivo de ser melhorado co novas funcionalidades a medida que as for aprendendo.
